@@ -1,4 +1,4 @@
-package com.litsynp.ticketseller;
+package com.litsynp.ch1.theater;
 
 import java.util.ArrayList;
 import java.util.Arrays;

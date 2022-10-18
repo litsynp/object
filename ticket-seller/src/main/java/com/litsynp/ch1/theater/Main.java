@@ -1,4 +1,4 @@
-package com.litsynp.ticketseller;
+package com.litsynp.ch1.theater;
 
 public class Main {
     public static void main(String[] args) {
